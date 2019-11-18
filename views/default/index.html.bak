@@ -1,0 +1,8 @@
+{{extend 'layout.html'}}
+<center style="background-color: #e6f2ff; color:black; padding: 10px">
+    <h3>
+        Acesso Geral
+    </h3>
+</center>
+<br>
+    {{=grid}}
